@@ -1,0 +1,48 @@
+.league-selector {
+    margin: 20px 0;
+  }
+  
+  .league-selector h2 {
+    font-size: 20px;
+    margin-bottom: 15px;
+  }
+  
+  .leagues-container {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+  }
+  
+  .league-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 10px;
+    min-width: 100px;
+    border: 1px solid #e0e0e0;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+  
+  .league-item:hover {
+    background-color: #f9f9f9;
+  }
+  
+  .league-item.selected {
+    border-color: #4CAF50;
+    background-color: #f0f7f0;
+  }
+  
+  .league-logo {
+    width: 30px;
+    height: 30px;
+    object-fit: contain;
+    margin-bottom: 5px;
+  }
+  
+  .league-item span {
+    font-size: 12px;
+    text-align: center;
+  }
