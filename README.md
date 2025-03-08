@@ -32,7 +32,7 @@ cd FootballScores
 npm install
 ```
 
-### 2. Run the project locally
+### 4. Run the project locally
 ```sh
 npm start
 ```
