@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_KEY = 'b2d6b634169c47e9a163511a6a32f560';
+const API_KEY = 'YOUR_API_KEY';
 const BASE_URL = '/api/v4';
 
 
