@@ -7,8 +7,6 @@ FootballScores is a web application that provides real-time and past football ma
 - Fetch and display live football scores
 - View past match results in descending order
 - Select specific leagues to filter matches
-- User-friendly interface with real-time updates
-- Proxy integration to bypass CORS restrictions
 
 ## Prerequisites
 Before running the project, ensure you have the following installed on your system:
